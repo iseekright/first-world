@@ -1,1 +1,7 @@
-{"name":"First-world","tagline":"Success is possible!","body":"<h1>学习寄语</h1>\r\n<p>我相信自己一定会有一个好的成果，无论怎样，自己开心就好!</p>","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "First-world",
+  "tagline": "Success is possible!",
+  "body": "<h1>学习寄语</h1>\r\n<p>我相信自己一定会有一个好的成果，无论怎样，自己开心就好!</p>\r\n<h2>3月5日</h2>\r\n<p>第一次上课，了解了一些基础内容，要用代码写html,好困难：（</p>\r\n<h2>3月5日</2>\r\n<p>看我做的台灯，别笑我，我知道有点丑!还在学html,不会，；（</p>\r\n<img src=\"bulb.png\" />",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
